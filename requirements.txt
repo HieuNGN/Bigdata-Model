@@ -5,7 +5,7 @@ jupyter
 datascience
 numpy
 seaborn
-scikit-learn
+scikit-learn==1.5.2
 joblib
 PyQt5
 DataProcessor
